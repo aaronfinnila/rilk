@@ -32,7 +32,6 @@ import obj.OBJ_Longsword;
 import obj.OBJ_Nightingale;
 import obj.OBJ_Potion_Red;
 import obj.OBJ_Questionmark;
-import obj.OBJ_Questionmark2;
 import obj.OBJ_Rowboat;
 import obj.OBJ_Shield_Default;
 import obj.OBJ_Slimeball;
@@ -79,7 +78,6 @@ public class SaveLoad {
             case OBJ_Creamor_Key.objName: obj = new OBJ_Creamor_Key(gp); break;
             case OBJ_Lantern_Ground.objName: obj = new OBJ_Lantern_Ground(gp); break;
             case OBJ_Questionmark.objName: obj = new OBJ_Questionmark(gp); break;
-            case OBJ_Questionmark2.objName: obj = new OBJ_Questionmark2(gp); break;
             case OBJ_Rowboat.objName: obj = new OBJ_Rowboat(gp); break;
             case OBJ_Slimeball.objName: obj = new OBJ_Slimeball(gp); break;
             case OBJ_Store_Interior.objName: obj = new OBJ_Store_Interior(gp); break;

@@ -4,3 +4,4 @@ config.txt
 *.jar
 *.iml
 runtime
+bin/
